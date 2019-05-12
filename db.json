@@ -2,31 +2,43 @@
   "posts": [
     {
         "id": 1,
-        "title": "Titulo de Teste 1",
-        "body": "Texto de Teste 1",
+        "title": "Boas Práticas ao Programar",
+        "body": "Apesar disso, se na criação do código o programador seguir regras básicas usando as boas práticas de programação que serão mostradas nesse artigo, essa ...",
         "categoriasid": 1,
-        "usersid": 1
+        "usersid": 1,
+        "gostao": 25,
+        "ngostao": 1,
+        "comentario": 5
     },
     {
         "id": 2,
-        "title": "Titulo de Teste 2",
-        "body": "Texto de Teste 2",
+        "title": "Como é o dia a dia de um Programador",
+        "body": "O programador é responsável por desenvolver aplicativos e softwares para diversos dispositivos eletrônicos. Conheça os cargos, o mercado de trabalho, ...",
         "categoriasid": 3,
-        "usersid": 1
+        "usersid": 1,
+        "gostao": 22,
+        "ngostao": 4,
+        "comentario": 12
     },
     {
         "id": 3,
-        "title": "Titulo de Teste 3",
-        "body": "Texto de Teste 3",
+        "title": "5 Caracteristicas de um bom programador",
+        "body": "A profissão de programador é uma das que têm chamado mais atenção dos estudantes que ingressam nas áreas relacionadas à tecnologia ...",
         "categoriasid": 1,
-        "usersid": 2
+        "usersid": 2,
+        "gostao": 2,
+        "ngostao": 10,
+        "comentario": 15
     },
     {
         "id": 4,
-        "title": "Titulo de Teste 4",
-        "body": "Texto de Teste 4",
+        "title": "Vida de programador",
+        "body": "Está querendo ingressar na carreira de programador e não sabe por onde começar? Então veja o que você precisa aprender primeiro...",
         "categoriasid": 2,
-        "usersid": 2
+        "usersid": 2,
+        "gostao": 35,
+        "ngostao": 15,
+        "comentario": 55
     }
 ],
 "users": [
