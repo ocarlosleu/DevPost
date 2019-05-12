@@ -4,26 +4,63 @@
         "id": 1,
         "title": "Titulo de Teste 1",
         "body": "Texto de Teste 1",
-        "categoria": "Texto"
+        "categoriasid": 1,
+        "usersid": 1
     },
     {
         "id": 2,
         "title": "Titulo de Teste 2",
         "body": "Texto de Teste 2",
-        "categoria": "Texto"
+        "categoriasid": 3,
+        "usersid": 1
     },
     {
         "id": 3,
-        "title": "Titulo de Teste 2",
-        "body": "Texto de Teste 2",
-        "categoria": "Texto"
+        "title": "Titulo de Teste 3",
+        "body": "Texto de Teste 3",
+        "categoriasid": 1,
+        "usersid": 2
+    },
+    {
+        "id": 4,
+        "title": "Titulo de Teste 4",
+        "body": "Texto de Teste 4",
+        "categoriasid": 2,
+        "usersid": 2
     }
 ],
 "users": [
     {
         "id": 1,
         "name": "Carlos Cavalheiro",
-        "username": "carlos"
+        "username": "ccavalheiro"
+    },
+    {
+        "id": 2,
+        "name": "João da Silva",
+        "username": "jsilva"
+    }
+],
+"categorias": [
+    {
+        "id": 1,
+        "categoria": "Texto"
+    },
+    {
+        "id": 2,
+        "categoria": "Foto"
+    },
+    {
+        "id": 3,
+        "categoria": "Vídeo"
+    },
+    {
+        "id": 4,
+        "categoria": "Código"
+    },
+    {
+        "id": 5,
+        "categoria": "Link"
     }
 ]
 }
