@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+        "id": 1,
+        "title": "Titulo de Teste 1",
+        "body": "Texto de Teste 1",
+        "categoria": "Texto"
+    },
+    {
+        "id": 2,
+        "title": "Titulo de Teste 2",
+        "body": "Texto de Teste 2",
+        "categoria": "Texto"
+    },
+    {
+        "id": 3,
+        "title": "Titulo de Teste 2",
+        "body": "Texto de Teste 2",
+        "categoria": "Texto"
+    }
+],
+"users": [
+    {
+        "id": 1,
+        "name": "Carlos Cavalheiro",
+        "username": "carlos"
+    }
+]
+}
